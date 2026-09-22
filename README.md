@@ -18,6 +18,36 @@ All **186 scenarios** in this repository are interactive on the live practice en
 
 ---
 
+## 🌐 Naveed Kumbhar Digital & Engineering Ecosystem
+
+This repository is part of the open technology and cloud architecture network curated by [Naveed Kumbhar](https://naveedkumbhar.com):
+
+| Platform | URL | Scope & Technical Focus |
+| :--- | :--- | :--- |
+| 👨‍💻 **Primary Architect Hub** | [`naveedkumbhar.com`](https://naveedkumbhar.com) | Official portfolio of Naveed Kumbhar — Senior DevOps, Cloud & SRE Architect. |
+| 🧠 **DevOps Production Hub** | [`interview.naveedkumbhar.com`](https://interview.naveedkumbhar.com) | 998+ real-world production incident scenarios, diagnostic runbooks, and candidate storytelling models. |
+| ☸️ **Kubernetes Mastery** | [`k8s.naveedkumbhar.com`](https://k8s.naveedkumbhar.com) | 24 hands-on modules, interactive quizzes (70% pass gate), session tracking, and minikube sandboxes. |
+| 📝 **Engineering Deep Dives** | [`blog.naveedkumbhar.com`](https://blog.naveedkumbhar.com) | Production post-mortems, high-availability cluster designs, and modern infrastructure guides. |
+| ⚡ **The Platform Dispatch** | [`news.naveedkumbhar.com`](https://news.naveedkumbhar.com) | Free bi-weekly newsletter covering real production incidents, cloud architecture, and automation. |
+| 🧰 **DevOps Lab & Cloud Tools** | [`tools.naveedkumbhar.com`](https://tools.naveedkumbhar.com) | Interactive YAML validators, CIDR subnet calculators, and IAM security policy builders. |
+| 🌳 **Genealogy Digital Archive** | [`shajjra.com`](https://shajjra.com) | Flagship 45-generation living family tree archive and interactive genealogical canvas. |
+
+
+
+### 🔗 Connect with Naveed Ahmed
+- 🌐 **Portfolio & Systems:** https://naveedkumbhar.com
+- ✍️ **Tech Blog:** https://blog.naveedkumbhar.com
+- 💼 **LinkedIn:** [linkedin.com/in/naveedkumbhar](https://pk.linkedin.com/in/naveedkumbhar)
+- 🐦 **X (Twitter):** [@naveedkumbhar](https://x.com/naveedkumbhar)
+- 🧵 **Threads:** [@naveedkumbhar](https://threads.net/@naveedkumbhar)
+- 📸 **Instagram:** [@naveedkumbhar](https://instagram.com/naveedkumbhar)
+- 📘 **Facebook:** [KiLL3rMiNd](https://www.facebook.com/KiLL3rMiNd)
+- 💬 **WhatsApp Direct:** [@naveedkumbhar](https://wa.me/naveedkumbhar)
+- 🐙 **GitHub:** https://github.com/naveedkumbhar
+
+
+---
+
 ## 📑 Scenarios Directory
 
 1. [Zero-Downtime Amazon EKS Minor & Multi-Version Upgrade (v1.34 → v1.36+)](#scenario-1-zero-downtime-amazon-eks-minor-multi-version-upgrade-v1-34-v1-36)
