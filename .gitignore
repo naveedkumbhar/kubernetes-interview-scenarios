@@ -1,0 +1,13 @@
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# IDE & Editor
+.idea/
+.vscode/
+*.swp
+
+# Node & Python
+node_modules/
+__pycache__/
+*.pyc
